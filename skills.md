@@ -1,9 +1,3 @@
----
-layout: page
-title: Skills
-permalink: /skills/
----
-
 ## My Skills
 
 ### Technical Skills
