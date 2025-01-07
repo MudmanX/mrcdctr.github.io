@@ -1,9 +1,3 @@
----
-layout: page
-title: Education
-permalink: /education/
----
-
 ## Education
 
 ### Bachelor’s Degree in Computer Science
