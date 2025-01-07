@@ -1,9 +1,3 @@
----
-layout: page
-title: Projects
-permalink: /projects/
----
-
 ## My Projects
 
 ### 1. AI-Powered Network Monitoring Tool
