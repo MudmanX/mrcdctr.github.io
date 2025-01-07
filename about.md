@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 ## About Me
 
 Hello! I'm **Marco Doctor**, an experienced IT Specialist based in Bologna, Italy, with a passion for artificial intelligence, machine learning, and digital content creation. With over a decade of experience in system administration, network management, and technical support, I am now expanding my expertise into AI and creative media to drive innovation and deliver high-quality solutions.
