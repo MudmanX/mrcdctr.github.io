@@ -1,0 +1,11 @@
+title: Marco Doctor Portfolio
+description: IT Specialist, Aspiring AI Enthusiast, and Creative Digital Content Creator
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.mrcdctrportfolio.com" # the base hostname & protocol for your site
+author:
+  name: Marco Doctor
+  email: mrcdctr@gmail.com
+social:
+  github: https://github.com/mrcdctr
+  linkedin: https://linkedin.com/in/marcodctor
+  portfolio: https://www.mrcdctrportfolio.com
