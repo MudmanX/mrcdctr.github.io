@@ -11,7 +11,6 @@ Feel free to reach out for collaboration, opportunities, or just a friendly chat
 ### Contact Information
 
 - **Email:** [mrcdctr@gmail.com](mailto:mrcdctr@gmail.com)
-- **Phone:** (+39) 3202677867
 - **Address:**  
    Bologna, Italy
 
