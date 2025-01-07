@@ -13,8 +13,7 @@ Feel free to reach out for collaboration, opportunities, or just a friendly chat
 - **Email:** [mrcdctr@gmail.com](mailto:mrcdctr@gmail.com)
 - **Phone:** (+39) 3202677867
 - **Address:**  
-  Via Gaetano Previati 1,  
-  40139, Bologna, Italy
+   Bologna, Italy
 
 ### Follow Me
 
