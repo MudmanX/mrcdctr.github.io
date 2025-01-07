@@ -1,9 +1,3 @@
----
-layout: page
-title: Experience
-permalink: /experience/
----
-
 ## Professional Experience
 
 ### IT Specialist | Freelance Data Solutions
