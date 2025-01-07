@@ -1,9 +1,3 @@
----
-layout: page
-title: Contact
-permalink: /contact/
----
-
 ## Get in Touch
 
 Feel free to reach out for collaboration, opportunities, or just a friendly chat about technology and digital content creation!
