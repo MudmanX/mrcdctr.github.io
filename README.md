@@ -1,5 +1,3 @@
-# mrcdctr-portfolio
-
 Welcome to my personal portfolio website! This website showcases my journey as a web developer, highlights my skills, and provides a platform to share my projects and contact information.
 
 ## Table of Contents
