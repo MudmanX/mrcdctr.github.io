@@ -39,23 +39,6 @@ window.addEventListener('click', event => {
         event.target.style.display = 'none';
     }
 });
-const projects = [
-    {
-        title: "Content Management System (CMS) 🏗",
-        description: "Coming soon...",
-        link: "#"
-    },
-    {
-        title: "E-commerce Website 🛒",
-        description: "Coming soon...",
-        link: "#"
-    },
-    {
-        title: "Chat Application 💬",
-        description: "Coming soon...",
-        link: "#"
-    }
-];
 
 const projectsContainer = document.querySelector(".projects");
 projects.forEach(project => {
